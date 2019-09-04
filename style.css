@@ -190,6 +190,7 @@ text-align: left}
     font-size: 1.1rem;
     border-radius: 30px;
 }
+/* added */
 
 .btn:hover {
     background: var(--secondary-color)

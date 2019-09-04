@@ -5,7 +5,7 @@ function validate() {
         document.form.name.focus();
         return false;
     }
-    
+
     if (document.form.email.value == "" || document.email - form.email.value < 4) {
         alert("Please provide your Email!");
         document.form.email.focus();
@@ -26,3 +26,4 @@ function validate() {
 
     return (true);
 }
+// added
